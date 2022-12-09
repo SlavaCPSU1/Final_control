@@ -1,0 +1,15 @@
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\bin\Debug\net6.0\FC.exe
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\bin\Debug\net6.0\FC.deps.json
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\bin\Debug\net6.0\FC.runtimeconfig.json
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\bin\Debug\net6.0\FC.dll
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\bin\Debug\net6.0\FC.pdb
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\FC.csproj.AssemblyReference.cache
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\FC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\FC.AssemblyInfoInputs.cache
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\FC.AssemblyInfo.cs
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\FC.csproj.CoreCompileInputs.cache
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\FC.dll
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\refint\FC.dll
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\FC.pdb
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\FC.genruntimeconfig.cache
+C:\Users\siare\OneDrive\Рабочий стол\final control basic acquaintance with IT\FC\obj\Debug\net6.0\ref\FC.dll
